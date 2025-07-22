@@ -28,3 +28,19 @@ You can install the required libraries using the following command:
 
 ```bash
 pip install pandas numpy matplotlib scikit-learn
+```
+---
+
+## 📩 Contact & Contribution
+
+For contributions, feedback, or collaborations, feel free to reach out:  
+- **Author:** Shreya Gupta
+- **Email:** shreyagupta119809@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/shreya-gupta-2a6a292ab
+
+---
+
+## 🔖 Tags  
+#DataScience #Python #TVShows #APIDatasets #MachineLearning #OpenData #DataVisualization  
+
+
